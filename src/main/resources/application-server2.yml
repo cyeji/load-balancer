@@ -1,0 +1,8 @@
+spring:
+  config:
+    activate:
+      on-profile: server2
+  server-name: server2
+
+
+
