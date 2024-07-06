@@ -36,10 +36,7 @@ server {
 
 ### 결과 값 확인
 
-![스크린샷 2024-07-07 오전 12.35.18.png](..%2F..%2F..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-07%20%EC%98%A4%EC%A0%84%2012.35.18.png)
-
-![스크린샷 2024-07-07 오전 12.39.46.png](..%2F..%2F..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-07%20%EC%98%A4%EC%A0%84%2012.39.46.png)
-
-![스크린샷 2024-07-07 오전 12.40.33.png](..%2F..%2F..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-07%20%EC%98%A4%EC%A0%84%2012.40.33.png)
-
+![스크린샷 2024-07-07 오전 12 35 18](https://github.com/cyeji/load-balancer/assets/98408267/b483085e-fae7-46af-a5ed-bb0596d5b494)
+![스크린샷 2024-07-07 오전 12 39 46](https://github.com/cyeji/load-balancer/assets/98408267/6141c432-0aa5-4dea-ac73-d3936af49789)
+![스크린샷 2024-07-07 오전 12 40 33](https://github.com/cyeji/load-balancer/assets/98408267/76f8aa4b-0c81-4311-8459-bdfe62e82450)
 
